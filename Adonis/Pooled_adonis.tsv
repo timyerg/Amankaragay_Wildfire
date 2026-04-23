@@ -1,0 +1,15 @@
+Factor	R2	Pr(>F)	Mode	Group1	Group2	P-value	P-adjusted	Metric
+Species	0.123620145736167	0.001	General					RPCA
+sType	0.0014736156588115	0.13	General					RPCA
+Area	0.311292622879233	0.001	General					RPCA
+PID	0.400866431636954	0.001	General					RPCA
+Species	0.0090626922795841		Pairwise	Carex supina	Calamagrostis epigeios	0.308	0.308	RPCA
+Species	0.123190133421537		Pairwise	Carex supina	Conyza canadensis	0.001	0.00166666666666667	RPCA
+Species	0.110626993373598		Pairwise	Carex supina	Chenopodium album	0.001	0.00166666666666667	RPCA
+Species	0.0968171812174525		Pairwise	Carex supina	Lactuca serriola	0.001	0.00166666666666667	RPCA
+Species	0.148027552840516		Pairwise	Calamagrostis epigeios	Conyza canadensis	0.001	0.00166666666666667	RPCA
+Species	0.141992590833678		Pairwise	Calamagrostis epigeios	Chenopodium album	0.001	0.00166666666666667	RPCA
+Species	0.122174540508602		Pairwise	Calamagrostis epigeios	Lactuca serriola	0.001	0.00166666666666667	RPCA
+Species	0.01311260191049		Pairwise	Conyza canadensis	Chenopodium album	0.193	0.214444444444444	RPCA
+Species	0.01882105863755		Pairwise	Conyza canadensis	Lactuca serriola	0.083	0.118571428571429	RPCA
+Species	0.0148803782118429		Pairwise	Chenopodium album	Lactuca serriola	0.16	0.2	RPCA

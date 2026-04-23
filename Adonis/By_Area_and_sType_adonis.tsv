@@ -1,0 +1,7 @@
+Factor	R2	Pr(>F)	Mode	Area	sType	Metric
+Cycle	0.182307474789077	0.001	General	Control	BS	RPCA
+Cycle	0.231414247226208	0.001	General	Control	RhS	RPCA
+Cycle	0.228227594883899	0.001	General	Control	Rt	RPCA
+Cycle	0.114822610292113	0.005	General	Burned	BS	RPCA
+Cycle	0.113715329533424	0.004	General	Burned	RhS	RPCA
+Cycle	0.142264368518615	0.001	General	Burned	Rt	RPCA

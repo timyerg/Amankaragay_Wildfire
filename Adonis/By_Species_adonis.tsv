@@ -1,0 +1,28 @@
+Factor	R2	Pr(>F)	Mode	Species	Group1	Group2	P-value	P-adjusted	Metric
+sType	0.0112323739287314	0.101	General	C_album					RPCA
+Area	0.395063662643822	0.001	General	C_album					RPCA
+PID	0.359485010085982	0.001	General	C_album					RPCA
+sType	0.0327886273202872	0.001	General	C_canadensis					RPCA
+Area	0.225914451712266	0.001	General	C_canadensis					RPCA
+PID	0.354934688941182	0.001	General	C_canadensis					RPCA
+sType	0.0275797932068715		Pairwise	C_canadensis	Root	Rhizosphere	0.311	0.4665	RPCA
+sType	0.0467125476290444		Pairwise	C_canadensis	Root	Soil	0.161	0.4665	RPCA
+sType	0.0027228749949806		Pairwise	C_canadensis	Rhizosphere	Soil	0.935	0.935	RPCA
+sType	0.0734147999473782	0.001	General	C_epigeios					RPCA
+Area	0.326136928216652	0.001	General	C_epigeios					RPCA
+PID	0.376985808296441	0.001	General	C_epigeios					RPCA
+sType	0.0574375020789355		Pairwise	C_epigeios	Root	Rhizosphere	0.102	0.153	RPCA
+sType	0.105219808569147		Pairwise	C_epigeios	Root	Soil	0.01	0.03	RPCA
+sType	0.0074417147703361		Pairwise	C_epigeios	Rhizosphere	Soil	0.774	0.774	RPCA
+sType	0.0816612634660644	0.001	General	C_supina					RPCA
+Area	0.274225153746863	0.001	General	C_supina					RPCA
+PID	0.452177672090768	0.001	General	C_supina					RPCA
+sType	0.0607371642311751		Pairwise	C_supina	Root	Rhizosphere	0.075	0.1125	RPCA
+sType	0.12350819229191		Pairwise	C_supina	Root	Soil	0.004	0.012	RPCA
+sType	0.0096227968145026		Pairwise	C_supina	Rhizosphere	Soil	0.742	0.742	RPCA
+sType	0.0146496467017544	0.017	General	L_serriola					RPCA
+Area	0.343871972367775	0.001	General	L_serriola					RPCA
+PID	0.470735453491276	0.001	General	L_serriola					RPCA
+sType	0.0200559693630532		Pairwise	L_serriola	Root	Soil	0.473	0.98	RPCA
+sType	0.0123324233182668		Pairwise	L_serriola	Root	Rhizosphere	0.692	0.98	RPCA
+sType	0.0013365539038359		Pairwise	L_serriola	Soil	Rhizosphere	0.98	0.98	RPCA

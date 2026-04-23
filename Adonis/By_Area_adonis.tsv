@@ -1,0 +1,13 @@
+Factor	R2	Pr(>F)	Mode	Group1	Group2	P-value	P-adjusted	Area	Metric
+sType	0.0109959404052001	0.001	General					Control	RPCA
+Cycle	0.215278463264833	0.001	General					Control	RPCA
+PID	0.452345017516948	0.001	General					Control	RPCA
+sType	0.0079661733002153		Pairwise	Rt	RhS	0.465	0.6975	Control	RPCA
+sType	0.0158154780365717		Pairwise	Rt	BS	0.18	0.54	Control	RPCA
+sType	0.0017035869018701		Pairwise	RhS	BS	0.867	0.867	Control	RPCA
+sType	0.0434768643678388	0.001	General					Burned	RPCA
+Cycle	0.116213071236262	0.001	General					Burned	RPCA
+PID	0.425176657097714	0.001	General					Burned	RPCA
+sType	0.0311558585011595		Pairwise	Rt	RhS	0.052	0.078	Burned	RPCA
+sType	0.0631045695875842		Pairwise	Rt	BS	0.001	0.003	Burned	RPCA
+sType	0.0059129515195382		Pairwise	RhS	BS	0.566	0.566	Burned	RPCA
